@@ -168,6 +168,14 @@ buf = data( x );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-array`][@stdlib/ndarray/array]</span><span class="delimiter">: </span><span class="description">multidimensional arrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
+-   <span class="package-name">[`@stdlib/ndarray-dtype`][@stdlib/ndarray/dtype]</span><span class="delimiter">: </span><span class="description">return the data type of a provided ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -241,7 +249,15 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-data-buffer/main/LICENSE
 
-[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
+
+[@stdlib/ndarray/dtype]: https://github.com/stdlib-js/ndarray-dtype
+
+<!-- </related-links> -->
 
 </section>
 

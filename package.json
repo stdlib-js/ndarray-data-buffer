@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@stdlib/array-typed": "^0.1.0",
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/ndarray-base-buffer": "^0.1.1",
     "@stdlib/ndarray-ctor": "^0.1.0",
     "@stdlib/ndarray-zeros": "^0.1.0",

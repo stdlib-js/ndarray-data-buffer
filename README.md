@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import data from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-data-buffer@deno/mod.js';
+import data from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-data-buffer@v0.2.0-deno/mod.js';
 ```
 
 #### data( x )
@@ -93,7 +93,7 @@ var out = data( x );
 
 ```javascript
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros@deno/mod.js';
-import data from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-data-buffer@deno/mod.js';
+import data from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-data-buffer@v0.2.0-deno/mod.js';
 
 // Create a 'float64' array...
 var opts = {

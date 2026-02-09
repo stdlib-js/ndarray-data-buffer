@@ -37,20 +37,20 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-collection": "^0.2.2",
+    "@stdlib/assert-is-collection": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/array-typed": "^0.3.1",
-    "@stdlib/ndarray-base-buffer": "^0.3.0",
-    "@stdlib/ndarray-ctor": "^0.3.0",
-    "@stdlib/ndarray-zeros": "^0.3.0",
+    "@stdlib/array-typed": "^0.3.2",
+    "@stdlib/ndarray-base-buffer": "^0.3.1",
+    "@stdlib/ndarray-ctor": "^0.3.1",
+    "@stdlib/ndarray-zeros": "^0.3.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",

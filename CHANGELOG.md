@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-11)
+
+<section class="features">
+
+### Features
+
+-   [`3c55bd8`](https://github.com/stdlib-js/stdlib/commit/3c55bd8f2b9fb04d340260ab7feab7eb7cdf4417) - add float16 dtype support to `ndarray/data-buffer` [(#15164)](https://github.com/stdlib-js/stdlib/pull/15164)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3c55bd8`](https://github.com/stdlib-js/stdlib/commit/3c55bd8f2b9fb04d340260ab7feab7eb7cdf4417) - **feat:** add float16 dtype support to `ndarray/data-buffer` [(#15164)](https://github.com/stdlib-js/stdlib/pull/15164) _(by Samarth Kolarkar)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Samarth Kolarkar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
